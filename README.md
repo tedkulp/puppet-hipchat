@@ -1,4 +1,4 @@
-# Rdio Puppet Module for Boxen
+# Hipchat Puppet Module for Boxen
 
 ## Usage
 
